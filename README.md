@@ -1,2 +1,2 @@
-# the-fisrt-rep
+# the-first-rep
 my first repository
